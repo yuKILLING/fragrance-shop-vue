@@ -5,6 +5,13 @@ How it looks
 ![FireShot Capture 001 - Vite App - localhost](https://github.com/yuKILLING/fragrance-shop-vue/assets/152706009/133f4daf-918a-4fae-b7bc-4a461029db5c)
 
 
+
+## Uncompleted functions:
+
+```sh
+Cart, Profile
+```
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
@@ -26,8 +33,8 @@ npm run dev
 ```
 
 
-### Lint with [ESLint](https://eslint.org/)
+### Info
 
 ```sh
-npm run lint
+Thats application has no backend, only frontend-part
 ```
