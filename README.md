@@ -1,6 +1,9 @@
 # template
 
-This template should help get you started developing with Vue 3 in Vite.
+How it looks
+
+![FireShot Capture 001 - Vite App - localhost](https://github.com/yuKILLING/fragrance-shop-vue/assets/152706009/133f4daf-918a-4fae-b7bc-4a461029db5c)
+
 
 ## Recommended IDE Setup
 
@@ -22,11 +25,6 @@ npm install
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
 
 ### Lint with [ESLint](https://eslint.org/)
 
